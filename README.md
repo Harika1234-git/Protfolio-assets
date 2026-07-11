@@ -6,4 +6,6 @@ This repository contains my professional assets, including certifications, resum
 
 - 📜 Certificates
 - 📄 Resume
-👩‍💻 Maintained by **Harika Bandla**
+
+  
+👩‍💻 Maintained by**Harika Bandla**
